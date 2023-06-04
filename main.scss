@@ -1,0 +1,20 @@
+@import "./styles/navbar";
+@import "./styles/intro";
+@import "./styles/about";
+@import "./styles/competencies";
+@import "./styles/education";
+@import "./styles/projects";
+@import "./styles/contact";
+
+// Main body Styling
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+// Main section Styling
+.section-bg {
+  background-color: #cae7e5;
+}
